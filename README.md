@@ -1,4 +1,4 @@
- <h1 align="center"> Hi 👋  ,   younss </h1>
+ <h1 align="center"> Hi 👋  ,   Younes Billali </h1>
  <h3>  💫 About Me: </h3>
 <h4> <b>🔧 Backend Developer | 🛡️ Cybersecurity Enthusiast </b> <br><br>I'm passionate about building robust, scalable backend systems and exploring the depths of cybersecurity. My goal is to write efficient, secure code while continuously learning new technologies.  <br><br>🔥 Current Focus 
  <br>-  Building secure microservices architectures.  <br>- Contributing to open-source security tools.  <br>-  Learning about cloud security (AWS/GCP).  </h4>
@@ -7,7 +7,7 @@
  
   <h3 align="center">🌐 Socials: </h3>
  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jalidi13) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hamzajalidi21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamzajalidi21@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/younesx.off/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](youness06billali@gmail.com) 
 
 ---
 
